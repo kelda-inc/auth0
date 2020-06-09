@@ -86,6 +86,8 @@ type Log struct {
 
 	// The user's unique identifier
 	UserID *string `json:"user_id"`
+
+	UserAgent *string `json:"user_agent"`
 }
 
 func (l *Log) String() string {

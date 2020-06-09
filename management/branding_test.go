@@ -1,7 +1,7 @@
 package management
 
 import (
-	"gopkg.in/auth0.v1"
+	"github.com/kelda-inc/auth0"
 	"testing"
 )
 

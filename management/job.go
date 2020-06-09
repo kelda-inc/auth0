@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"time"
 
-	"gopkg.in/auth0.v1"
+	"github.com/kelda-inc/auth0"
 )
 
 type Job struct {
